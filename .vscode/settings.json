@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ultrasonic.h": "c",
+        "orangeButton.h": "c",
+        "usart.h": "c",
+        "timer.h": "c",
+        "SoftwareSerial.h": "c++",
+        "gps.h": "c++",
+        "led_matrix.h": "c++",
+        "Adafruit_NeoPixel.h.h": "c++"
+    }
+}
