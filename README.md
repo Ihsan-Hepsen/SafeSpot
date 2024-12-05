@@ -1,5 +1,5 @@
 # SafeSpot
-SafeSpot is a school group project that helps cyclists to be more aware of their surroundings. It can detect any object that is in the blind spots. This helps cyclists to be more confident and catious on the road.
+SafeSpot is a group project that helps cyclists to be more aware of their surroundings. It can detect any object that is in the blind spots. This helps cyclists to be more confident and catious on the road.
 
 There are 3 ultrasonic sensors to detect all objects (including approaching vehicles or pedestrians), and a RGB LED display at the front to warn the cyclists what's around them.
 
