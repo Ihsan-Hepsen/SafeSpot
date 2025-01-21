@@ -1,7 +1,7 @@
 # SafeSpot
-SafeSpot is a group project that helps cyclists to be more aware of their surroundings. It can detect any object that is in the blind spots. This helps cyclists to be more confident and catious on the road.
-
-There are 3 ultrasonic sensors to detect all objects (including approaching vehicles or pedestrians), and a RGB LED display at the front to warn the cyclists what's around them.
+- SafeSpot project helps cyclists to be more aware of their surroundings. It can detect any object that is in the blind spots. This helps cyclists to be more confident and cautious on the road.
+- SafeSpot integrates 3 rear-facing ultra-sonic sensors for real-time object detection (vehicles, pedestrians, etc.) and an LED matrix panel with color-coded warnings, ensuring safer and more confident road use for cyclists.
+- [We tested on the streets!](https://www.instagram.com/tv/CbddSarI6UL)
 
 ## Contributors
 - [Ihsan Hepsen](https://github.com/ihsan-hepsen)
